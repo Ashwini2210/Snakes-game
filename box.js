@@ -1,4 +1,4 @@
-//Snakes Game
+//Snakes Game https://github.com/Ashwini2210/Snakes-game.git
 //Game Loop - Init, Draw, Update,
 function init(){
    //console.log("Init");
